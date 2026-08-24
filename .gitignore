@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.env.*
+*.local
+desktop.png
+mobile.png
+mobile430.png

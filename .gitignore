@@ -1,8 +1,17 @@
 node_modules/
 dist/
+frontend/dist/
 .env
 .env.*
+!.env.example
 *.local
 desktop.png
 mobile.png
 mobile430.png
+backend/uploads/
+uploads/
+.vite/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*

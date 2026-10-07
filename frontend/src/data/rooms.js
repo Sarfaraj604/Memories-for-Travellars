@@ -1,0 +1,32 @@
+export const rooms = [
+  {
+    name: 'Premium Family Room',
+    slug: 'premium-family-room',
+    description: 'A configurable room listing for families who want comfort, privacy and easy assistance.',
+    price: 'Rs 2,999 / night',
+    maxGuests: '[MAX GUESTS]',
+    bedType: '[BED TYPE]',
+    amenities: ['Wi-Fi', 'Parking', 'Hot Water', 'Attached Bathroom'],
+    image: 'https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1400&q=80',
+  },
+  {
+    name: 'Nature View Room',
+    slug: 'nature-view-room',
+    description: 'A calm placeholder room type with a replaceable image and editable amenities.',
+    price: 'Rs XXXX / night',
+    maxGuests: '[MAX GUESTS]',
+    bedType: '[BED TYPE]',
+    amenities: ['Nature View', 'Breakfast', 'Local Assistance'],
+    image: 'https://images.unsplash.com/photo-1560185007-c5ca9d2c014d?auto=format&fit=crop&w=1400&q=80',
+  },
+  {
+    name: 'Couple Comfort Room',
+    slug: 'couple-comfort-room',
+    description: 'A cozy configurable room card for couple stays and short breaks.',
+    price: 'Rs XXXX / night',
+    maxGuests: '[MAX GUESTS]',
+    bedType: '[BED TYPE]',
+    amenities: ['Attached Bathroom', 'Hot Water', 'Family Friendly'],
+    image: 'https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1400&q=80',
+  },
+];
